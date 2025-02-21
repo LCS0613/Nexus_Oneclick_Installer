@@ -17,8 +17,8 @@ This repository contains installation scripts for Nexus on different Ubuntu vers
 
 1. Clone this repository:
 ```
-git clone <repository-url>
-cd <repository-name>
+git clone https://github.com/LCS0613/Nexus_Oneclick_Installer
+cd Nexus_Oneclick_Installer
 ```
 
 2. Make the script executable:
